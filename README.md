@@ -8,6 +8,7 @@ how to run:
 first: get face from camera
 
 >python get_faces_from_camera.py
+
 >press the N, next Enter your name in the console,then Press the S for save image; 
 
 Second, convert image to features
